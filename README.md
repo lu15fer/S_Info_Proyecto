@@ -4,4 +4,8 @@ Sistemas de informacion
 
 2.-Ivan Ortiz
 
+3.-Juan Cervantes
+
+4.-Aaron se la com
+
 # S_Info_Proyecto
