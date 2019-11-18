@@ -4,6 +4,6 @@ Sistemas de informacion
 
 2.-Ivan Ortiz
 
-3.-Juan AngelCervantes
+3.-Juan Angel Cervantes
 
 # S_Info_Proyecto
