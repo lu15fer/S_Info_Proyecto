@@ -1,0 +1,6 @@
+probandodesde servidor Centos en Digital Ocean
+
+
+---se va a probar con la branch servidor, todos los cambios hechos desde el servidor en digital Ocean
+
+---se va a probar con la branch casita, todos los cambios hechos en casa
